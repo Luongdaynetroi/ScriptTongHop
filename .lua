@@ -78,7 +78,7 @@ local Scripts = {
     {tab = Tab6, name = "Hop Server", url = "https://raw.githubusercontent.com/thunhchk/Hopsever/refs/heads/main/categghop.txt"},
     {tab = Tab6, name = "Banana Hub", url = "https://raw.githubusercontent.com/thunhchk/Bananacat/refs/heads/main/testhub.lua"},
     {tab = Tab2, name = "Foxname 99 Đêm", url = "https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"},
-    {tab = Tab3, name = "Tigy Steal A Brainrot", url = "https://raw.githubusercontent.com/Tigyiscute/tigystealabrainrotscript/refs/heads/main/TigysScript"},
+    {tab = Tab3, name = "Tigy", url = "https://raw.githubusercontent.com/Tigyiscute/tigystealabrainrotscript/refs/heads/main/TigysScript"},
     {tab = Tab4, name = "Saki Hub", url = "https://saki-hub.vercel.app/pvb.lua"},
     {tab = Tab5, name = "Fly Thịnh", url = "https://raw.githubusercontent.com/thunhchk/Flythinh/refs/heads/main/Flythinhv1.lua"},
     {tab = Tab2, name = "99 Đêm Thịnh", url = "https://raw.githubusercontent.com/thunhchk/99nigth/refs/heads/main/99nightthinh.lua"},
@@ -105,6 +105,7 @@ local Scripts = {
     {tab = Tab8, name = "Tổng hợp Tuấn Anh IOS", url = "https://raw.githubusercontent.com/AnhDzaiScript/TuanAnhIOSNew/refs/heads/main/TuanAnhIOS-TongHop.Lua"},
     {tab = Tab6, name = "Astra Hub", url = "https://raw.githubusercontent.com/Overgustx2/Main/refs/heads/main/BloxFruits_25.html"},
     {tab = Tab9, name = "Aimlock", url = "https://raw.githubusercontent.com/Cyborg883/TSB/refs/heads/main/CombatGui"}
+
 }
 
 -- Thêm toàn bộ script vô UI
